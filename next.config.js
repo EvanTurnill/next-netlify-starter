@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-  images: {
+  /*images: {
     remotePatterns: [
       {
         protocol: 'http',
@@ -14,7 +14,7 @@ const nextConfig = {
         hostname: 'images.pexels.com',
       }
     ],
-  },
+  },*/
 }
 
 module.exports = nextConfig
